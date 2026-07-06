@@ -1,0 +1,30 @@
+[
+    {
+        "name": "udhay",
+        "id": "123",
+        "department": "mech",
+        "year": "2",
+        "age": "20"
+    },
+    {
+        "name": "swe",
+        "id": "56546",
+        "department": "bcs",
+        "year": "4",
+        "age": "22"
+    },
+    {
+        "name": "prasath",
+        "id": "1234",
+        "department": "ai",
+        "year": "4",
+        "age": "21"
+    },
+    {
+        "name": "suji",
+        "id": "2121",
+        "department": "bcs",
+        "year": "1",
+        "age": "18"
+    }
+]
